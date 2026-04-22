@@ -37,6 +37,4 @@ https://github.com/srinivasansiva89-byte/COVID-19-Global-Data-Analysis.git
    ```
 3. Run the analysis script or Jupyter notebook.
 
-## License
 
-This project is licensed under the MIT License.
