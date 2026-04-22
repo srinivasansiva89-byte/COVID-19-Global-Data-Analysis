@@ -2,6 +2,7 @@
 
 This repository contains code and analysis for understanding global COVID-19 data.
 
+
 ## Data Description
 
 - **Country**: Name of the country
